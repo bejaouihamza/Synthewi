@@ -23,13 +23,10 @@ The synthesizer integrates:
 
 The following images illustrate the complete mechanical appearance of the synthesizer PCB.
 
-| Front | Back |
-|-------|------|
-| ![](Images/synthewi_3d_model.png) | ![](Images/synthewi_3d_model_1.png) |
-
 | Isometric View | Perspective View |
 |---------------|------------------|
-| ![](Images/synthewi_3d_model_2.png) | ![](Images/synthewi_3d_model_3.png) |
+| ![](https://github.com/bejaouihamza/Synthewi/blob/main/synthewi_3d_model_1.png) | ![](https://github.com/bejaouihamza/Synthewi/blob/main/synthewi_3d_model_2.png)|
+
 
 The PCB has been designed as a fully integrated synthesizer platform where every interface required for sound generation is directly available on-board.
 
